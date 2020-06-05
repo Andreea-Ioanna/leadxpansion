@@ -1,0 +1,737 @@
+# Translation of Themes - Alexandria in Finnish
+# This file is distributed under the same license as the Themes - Alexandria package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-03-25 08:58:05+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fi\n"
+"Project-Id-Version: Themes - Alexandria\n"
+
+#. Description of the theme
+msgid "HTML5 & CSS3 Responsive WordPress Business and ecommerce theme with business style home page layout with welcome section, 3 product/services blocks and a client quote/testimonial section. 2 logo section layout options. 2 premade (Blue, Red) ready to use color schemes/skins. 3 widget areas in footer, 1 widget area in sidebar. 2 page layouts including a full width page template. Social media icons in footer."
+msgstr "Mukautuva HTML5 & CSS3 yritys- ja verkkokauppa teema jossa on yritystyylinen etusivu ja ulkoasu, sekä tervetuloa osio. 3 tuote-/palvelu osiota ja 1 asiakkaan lainaus/käyttäjäkokemus osio. 2 vaihtoehtoa logon asetteluun. 2 valmista valmista väriasetelmaa (sininen ja punainen). 3 vimpainaluetta alatunnisteessa. 1 vimpainalue sivupalkissa. 2 Sivuston asettelua sisältäen täysleveän sivupohjan. Sosiaalisen median kuvakkeet alatunnisteessa."
+
+#. Theme Name of the theme
+msgid "Alexandria"
+msgstr "Alexandria"
+
+#: inc/customizer.php:80
+msgid "Select a skin"
+msgstr "Valitse ulkoasu"
+
+#: inc/customizer.php:2152
+msgid "Footer Two"
+msgstr "Alatunniste 2"
+
+#: inc/customizer.php:2152
+msgid "Footer One"
+msgstr "Alatunniste 1"
+
+#: inc/customizer.php:2151
+msgid "Standard Page"
+msgstr "Perussivu"
+
+#: inc/customizer.php:2151
+msgid "ECommerce One"
+msgstr "Verkkokauppa 1"
+
+#: inc/customizer.php:2151
+msgid "Business Four"
+msgstr "Yritys 4"
+
+#: inc/customizer.php:2151
+msgid "Business Two"
+msgstr "Yritys 2"
+
+#: inc/customizer.php:2151
+msgid "Business One"
+msgstr "Yritys 1"
+
+#: inc/customizer.php:2150
+msgid "Custom Header"
+msgstr "Mukautettu otsake"
+
+#: inc/customizer.php:2150
+msgid "Header One"
+msgstr "Otsake 1"
+
+#: inc/customizer.php:2149
+msgid "Nav Below Logo"
+msgstr "Navigointi logon alla"
+
+#: inc/customizer.php:2149
+msgid "Nav Beside Logo"
+msgstr "Navigointi logon vieressä"
+
+#: inc/customizer.php:2147 inc/customizer.php:2149 inc/customizer.php:2150
+#: inc/customizer.php:2151 inc/customizer.php:2152
+msgid "Select an Option"
+msgstr "Valitse vaihtoehto"
+
+#: inc/customizer.php:2006
+msgid "Latest Products Settings"
+msgstr "Uusimpien tuotteiden asetukset"
+
+#: inc/customizer.php:1946
+msgid "Welcome Settings"
+msgstr "Tervetuloa asetukset"
+
+#: inc/customizer.php:1515
+msgid "BFour Settings"
+msgstr "Yritys 4 asetukset"
+
+#: inc/customizer.php:1432
+msgid "Portfolio Item # 4 Settings"
+msgstr "Työnäyte # 4 asetukset"
+
+#: inc/customizer.php:1369
+msgid "Portfolio Item # 3 Settings"
+msgstr "Työnäyte # 3 asetukset"
+
+#: inc/customizer.php:1306
+msgid "Portfolio Item # 2 Settings"
+msgstr "Työnäyte # 2 asetukset"
+
+#: inc/customizer.php:1243
+msgid "Portfolio Item # 1 Settings"
+msgstr "Työnäyte # 1 asetukset"
+
+#: inc/customizer.php:1184 inc/customizer.php:1856
+msgid "Quote Settings"
+msgstr "Lainausten asetukset"
+
+#: inc/customizer.php:1109
+msgid "Bottom Section Settings"
+msgstr "Alimman osion asetukset"
+
+#: inc/customizer.php:1034
+msgid "Middle Section Settings"
+msgstr "Keskimmäisen osion asetukset"
+
+#: inc/customizer.php:958
+msgid "Top Section Settings"
+msgstr "Ylimmän osion asetukset"
+
+#: inc/customizer.php:921
+msgid "BTwo Settings"
+msgstr "Yritys 2 asetukset"
+
+#: inc/customizer.php:900 inc/customizer.php:1495 inc/customizer.php:1917
+msgid "Recent Posts Settings"
+msgstr "Uusimpien julkaisujen asetukset"
+
+#: inc/customizer.php:841
+msgid "Bone Quote Settings"
+msgstr "Yritys 1 lainausten asetukset"
+
+#: inc/customizer.php:766
+msgid "Bone Right Settings"
+msgstr "Yritys 1 oikeapuoli asetukset"
+
+#: inc/customizer.php:691
+msgid "Bone Center Settings"
+msgstr "Yritys 1 keskialueen asetukset"
+
+#: inc/customizer.php:616
+msgid "Bone Left Settings"
+msgstr "Yritys 1 vasenpuoli asetukset"
+
+#: inc/customizer.php:585 inc/customizer.php:927
+msgid "Bone Welcome Settings"
+msgstr "Yritys 1 tervetuloa asetukset"
+
+#: inc/customizer.php:579
+msgid "BOne Settings"
+msgstr "Yritys 1 asetukset"
+
+#: inc/customizer.php:553
+msgid "Select a homepage layout?"
+msgstr "Valitse etusivun asettelu?"
+
+#: inc/customizer.php:544
+msgid "Layout Selection Settings"
+msgstr "Asettelun valinnan asetukset"
+
+#: inc/customizer.php:470 inc/customizer.php:629 inc/customizer.php:704
+#: inc/customizer.php:779 inc/customizer.php:971 inc/customizer.php:1047
+#: inc/customizer.php:1122 inc/customizer.php:1256 inc/customizer.php:1319
+#: inc/customizer.php:1382 inc/customizer.php:1445 inc/customizer.php:1565
+#: inc/customizer.php:1640 inc/customizer.php:1715 inc/customizer.php:1793
+msgid "Upload Image."
+msgstr "Siirrä kuva palvelimelle."
+
+#: inc/customizer.php:431
+msgid "Show Header on Category Pages?"
+msgstr "Näytä otsake kategoria sivuilla?"
+
+#: inc/customizer.php:418
+msgid "Show Header on Pages?"
+msgstr "Näytä otsake sivuilla?"
+
+#: inc/customizer.php:405
+msgid "Show Header on Single post page?"
+msgstr "Näytä otsake yksittäisen julkaisun sivulla?"
+
+#: inc/customizer.php:392
+msgid "Show Header on homepage?"
+msgstr "Näytä otsake etusivulla?"
+
+#: inc/customizer.php:383
+msgid "Header ON/OFF Settings"
+msgstr "Otsake käytössä/ei käytössä -asetus"
+
+#: inc/customizer.php:356
+msgid "Select Header Section Layout"
+msgstr "Valitse otsakeosion asettelu"
+
+#: inc/customizer.php:314
+msgid "Select Logo Section Layout"
+msgstr "Valitse logo-osion asettelu"
+
+#: inc/customizer.php:280
+msgid "Google:"
+msgstr "Google:"
+
+#: inc/customizer.php:268
+msgid "LinkedIn:"
+msgstr "LinkedIn:"
+
+#: inc/customizer.php:256
+msgid "Flickr:"
+msgstr "Flickr:"
+
+#: inc/customizer.php:244
+msgid "Stumble :"
+msgstr "Stumble :"
+
+#: inc/customizer.php:232
+msgid "Facebook :"
+msgstr "Facebook :"
+
+#: inc/customizer.php:220
+msgid "Reddit :"
+msgstr "Reddit :"
+
+#: inc/customizer.php:208
+msgid "Twitter :"
+msgstr "Twitter :"
+
+#: inc/customizer.php:60
+msgid "Background Color"
+msgstr "Taustan väri"
+
+#: inc/customizer.php:42
+msgid "General Options"
+msgstr "Yleiset asetukset"
+
+#: inc/customizer.php:1940
+msgid "Ecom One Settings"
+msgstr "Verkkokauppa 1 asetukset"
+
+#: inc/template-tags.php:92
+msgid "Older Products"
+msgstr "Vanhemmat tuotteet"
+
+#: index-eone.php:38
+msgid "Latest Products"
+msgstr "Uusimmat tuotteet"
+
+#: inc/template-tags.php:96
+msgid "Newer Products"
+msgstr "Uudemmat tuotteet"
+
+#: index-eone.php:104
+msgid "View Details"
+msgstr "Näytä tiedot"
+
+#: inc/customizer.php:2015
+msgid "Heading"
+msgstr "Otsikko"
+
+#: inc/customizer.php:2027
+msgid "How many Products?"
+msgstr "Kuinka monta tuotetta?"
+
+#: slider-one.php:26
+msgid "Responsive Business & Ecommerce Theme"
+msgstr "Mukautuva yritys- & verkkokauppa teema"
+
+#. Template Name of the theme
+msgid "Page with sidebar"
+msgstr "Sivulla sivupalkki"
+
+#: slider-one.php:45
+msgid "Continue Reading"
+msgstr "Jatka lukemista"
+
+#: searchform.php:13
+msgctxt "submit button"
+msgid "Search"
+msgstr "Hae"
+
+#: searchform.php:11
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Haku &hellip;"
+
+#: searchform.php:10 searchform.php:11
+msgctxt "label"
+msgid "Search for:"
+msgstr "Haku:"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Hakutulokset kohteelle: %s"
+
+#: inc/customizer.php:2082
+msgid "Select a footer layout"
+msgstr "Valitse alatunnisteen asettelu"
+
+#: inc/customizer.php:2073
+msgid "Footer Settings"
+msgstr "Alapalkin asetukset"
+
+#: inc/customizer.php:2062
+msgid "Show Comments?"
+msgstr "Näytä kommentit?"
+
+#: inc/customizer.php:1702
+msgid "Center Right Section"
+msgstr "Sisempi oikea osio"
+
+#: inc/customizer.php:1627
+msgid "Center Left Section"
+msgstr "Sisempi vasen osio"
+
+#: inc/customizer.php:1269 inc/customizer.php:1332 inc/customizer.php:1395
+#: inc/customizer.php:1458
+msgid "Name"
+msgstr "Nimi"
+
+#: inc/customizer.php:909 inc/customizer.php:1504 inc/customizer.php:1926
+#: inc/customizer.php:1955
+msgid "Show Recent Posts Section?"
+msgstr "Näytä uusimmat julkaisut osio?"
+
+#: inc/customizer.php:875 inc/customizer.php:1218 inc/customizer.php:1890
+msgid "Customer Name"
+msgstr "Asiakkaan nimi"
+
+#: inc/customizer.php:863 inc/customizer.php:1206 inc/customizer.php:1878
+msgid "Quote"
+msgstr "Lainaus"
+
+#: inc/customizer.php:850 inc/customizer.php:1193 inc/customizer.php:1865
+msgid "Show Quote?"
+msgstr "Näytä lainaus"
+
+#: inc/customizer.php:1780
+msgid "Right Section"
+msgstr "Oikea osio"
+
+#: inc/customizer.php:666 inc/customizer.php:741 inc/customizer.php:816
+#: inc/customizer.php:1008 inc/customizer.php:1084 inc/customizer.php:1159
+#: inc/customizer.php:1281 inc/customizer.php:1344 inc/customizer.php:1407
+#: inc/customizer.php:1470 inc/customizer.php:1602 inc/customizer.php:1677
+#: inc/customizer.php:1752 inc/customizer.php:1830
+msgid "Link"
+msgstr "Linkki"
+
+#: inc/customizer.php:1552
+msgid "Left Section"
+msgstr "Vasen osio"
+
+#: inc/customizer.php:606 inc/customizer.php:654 inc/customizer.php:729
+#: inc/customizer.php:804 inc/customizer.php:948 inc/customizer.php:996
+#: inc/customizer.php:1072 inc/customizer.php:1147 inc/customizer.php:1542
+#: inc/customizer.php:1590 inc/customizer.php:1665 inc/customizer.php:1740
+#: inc/customizer.php:1818 inc/customizer.php:1980
+msgid "Welcome text"
+msgstr "Tervetuloa teksti"
+
+#: inc/customizer.php:519
+msgid "Call To Action Link"
+msgstr "Toimi heti -kehotteen linkki"
+
+#: inc/customizer.php:507
+msgid "Call To Action text"
+msgstr "Toimi heti -kehotteen teksti"
+
+#: inc/customizer.php:495
+msgid "Feature text"
+msgstr "Tunnuslause"
+
+#: inc/customizer.php:1578 inc/customizer.php:1653 inc/customizer.php:1728
+#: inc/customizer.php:1806
+msgid "Enter the headline"
+msgstr "Lisää otsikko"
+
+#: inc/customizer.php:483 inc/customizer.php:594 inc/customizer.php:642
+#: inc/customizer.php:717 inc/customizer.php:792 inc/customizer.php:936
+#: inc/customizer.php:984 inc/customizer.php:1060 inc/customizer.php:1135
+#: inc/customizer.php:1530 inc/customizer.php:1968
+msgid "Headline"
+msgstr "Otsikko"
+
+#: inc/customizer.php:1521
+msgid "Welcome Section"
+msgstr "Tervetuloa osio"
+
+#: inc/customizer.php:347
+msgid "Select A Header Type"
+msgstr "Valitse otsakkeen laji"
+
+#: inc/customizer.php:305
+msgid "Logo Section Settings"
+msgstr "Logo osion asetukset"
+
+#: inc/customizer.php:169
+msgid "Show Next/Previous Box?"
+msgstr "Näytä seuraava/edellinen laatikko?"
+
+#: inc/customizer.php:156
+msgid "Show Categories and Tags?"
+msgstr "Näytä kategoriat ja tagit?"
+
+#: inc/customizer.php:143
+msgid "Show Posted by and Date?"
+msgstr "Näytä julkaisut päivämäärän mukaan?"
+
+#: inc/customizer.php:130
+msgid "Show Ratings?"
+msgstr "Näytä arostelut?"
+
+#: inc/customizer.php:117
+msgid "Show featured image?"
+msgstr "Näytä artikkelikuva"
+
+#: inc/customizer.php:108
+msgid "Single Post Settings"
+msgstr "Yksittäisen julkaisun asetukset"
+
+#: inc/customizer.php:71
+msgid "Select a Skin"
+msgstr "Valitse ulkoasu"
+
+#: inc/customizer.php:2147
+msgid "Yes"
+msgstr "Kyllä"
+
+#: inc/customizer.php:2147
+msgid "No"
+msgstr "Ei"
+
+#: no-results.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Emme valitettavasti löytäneet etsimääsi. Ehkä hakutoiminnosta on apua."
+
+#: no-results.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Pahoittelut mutta mitään ei löytynyt hakuehdoillasi. Kokeile uudelleen joillakin toisilla hakusanoilla."
+
+#: no-results.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Oletko valmis julkaisemaan ensimmäisen kirjoituksesi? <a href=\"%1$s\">Aloita tästä</a>."
+
+#: no-results.php:13
+msgid "Nothing Found"
+msgstr "Mitään ei löytynyt."
+
+#: index-btwo.php:226
+msgid "Portfolio"
+msgstr "Työnäytteet (Portfolio)"
+
+#: index-btwo.php:211 index-bfour.php:231 index-bone.php:183
+msgid "Mac Taylor"
+msgstr "Mac Taylor"
+
+#: index-btwo.php:162 index-bfour.php:187 index-bone.php:139
+msgid "Marketing"
+msgstr "Markkinointi"
+
+#: index-bfour.php:142
+msgid "Hosting"
+msgstr "Ylläpito"
+
+#: index-btwo.php:108 index-bfour.php:97 index-bone.php:97
+msgid "Development"
+msgstr "Kehitys"
+
+#: index-btwo.php:57 index-bfour.php:55 index-bone.php:55
+msgid "Design"
+msgstr "Desing"
+
+#: index-btwo.php:12 index-bfour.php:10 index-eone.php:11 index-bone.php:10
+msgid "Welcome Headline Comes Here"
+msgstr "Tervetuloa otsikko tulee tähän"
+
+#: inc/template-tags.php:243
+msgid "View all posts by %s"
+msgstr "Näytä kaikki artikkelit kirjoittajalta %s"
+
+#: inc/template-tags.php:235
+msgid "<span class=\"posted-on\">Posted on %1$s</span><span class=\"byline\"> by %2$s</span>"
+msgstr "<span class=\"posted-on\">Julkaistu %1$s</span><span class=\"byline\"> by %2$s</span>"
+
+#: inc/template-tags.php:149
+msgid "Your comment is awaiting moderation."
+msgstr "Kommenttisi on arvioitavana."
+
+#: inc/template-tags.php:140
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s klo %2$s"
+
+#: inc/template-tags.php:119
+msgid "Pingback:"
+msgstr "Päivitysilmoitus:"
+
+#: inc/template-tags.php:48
+msgid "Newer posts"
+msgstr "Uudemmat artikkelit"
+
+#: inc/template-tags.php:44
+msgid "Older posts"
+msgstr "Vanhemmat artikkelit"
+
+#: inc/template-tags.php:34 inc/template-tags.php:82
+msgid "Post navigation"
+msgstr "Artikkelien selaus"
+
+#: image.php:75
+msgid "Both comments and trackbacks are currently closed."
+msgstr "Kommentointi ja paluuviitteet on suljettu."
+
+#: image.php:73
+msgid "Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">post a comment</a>."
+msgstr "Paluuviitteet on suljettu, mutta voit <a class=\"comment-link\" href=\"#respond\" title=\"lähetä kommentti\">lähettää kommentin</a>."
+
+#: image.php:71
+msgid "Comments are closed, but you can leave a trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr "Kommentointi on suljettu, mutta voit jättää paluuviitteen: <a class=\"trackback-link\" href=\"%s\" title=\"Paluuviitteen URL-osoite\" rel=\"trackback\">Paluuviitteen URL-osoite</a>."
+
+#: image.php:69
+msgid "<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr "<a class=\"comment-link\" href=\"#respond\" title=\"Lähetä kommentti\">Lähetä kommentti</a> tai jätä paluuviite: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL-osoite artikkeliisi\" rel=\"trackback\">Paluuviitteen URL-osoite</a>."
+
+#: image.php:40
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Seuraava <span class=\"meta-nav\">&rarr;</span>"
+
+#: image.php:39
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> Edellinen"
+
+#: image.php:23
+msgid "Published <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>"
+msgstr "Julkaistu <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> -- <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> täällä <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>"
+
+#: header.php:60 header.php:83
+msgid "Skip to content"
+msgstr "Siirry sisältöön"
+
+#: functions.php:282
+msgid "Home"
+msgstr "Etusivu"
+
+#: functions.php:275
+msgid "Select a Menu to appear here in Dashboard->Appearance->Menus "
+msgstr "Valitse valikkon näkymä --> Hallinta --> Ulkoasu --> Valikko"
+
+#: functions.php:227
+msgid "Menu"
+msgstr "Valikko"
+
+#: functions.php:190
+msgid "Footer Right Sidebar"
+msgstr "Alatunnisteen oikea sivupalkki"
+
+#: functions.php:181
+msgid "Footer Center Sidebar"
+msgstr "Alatunnisteen keskimmäinen sivupalkki"
+
+#: functions.php:172
+msgid "Footer Left Sidebar"
+msgstr "Alatunnisteen vasen sivupalkki"
+
+#: functions.php:164
+msgid "Sidebar"
+msgstr "Sivupalkki"
+
+#: functions.php:103
+msgid "Primary Menu"
+msgstr "Ensisijainen valikko"
+
+#: footer-one.php:37 sidebar.php:24
+msgid "Meta"
+msgstr "Meta-tiedot"
+
+#: inc/template-tags.php:135 footer-two.php:14 footer-one.php:14
+msgid "%s"
+msgstr "%s"
+
+#: footer-two.php:14 footer-one.php:14
+msgid "A Semantic Personal Publishing Platform"
+msgstr "Merkityksellinen henkilökohtainen julkaisualusta"
+
+#: footer-two.php:12 footer-one.php:12
+msgid "Designed by: %1$s."
+msgstr "Suunnitellut: %1$s."
+
+#: footer-two.php:10 footer-one.php:10
+msgid "&copy; All rights reserved."
+msgstr "&copy; Kaikki oikeudet pidätetään"
+
+#: content-single.php:62 content-single.php:64
+msgid "Categories : %1$s"
+msgstr "Kategoriat : %1$s"
+
+#: content-single.php:54 content-single.php:56 content-single.php:62
+#: content-single.php:64
+msgid "Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>"
+msgstr "Lisää kirjainmerkkeihin  <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">kestolinkki</a>"
+
+#: content-single.php:54 content-single.php:62
+msgid "Tags : %2$s"
+msgstr "Avainsanat : %2$s"
+
+#: content-aside.php:64 inc/template-tags.php:119 inc/template-tags.php:145
+#: content-single.php:79 content-page.php:23 image.php:34 image.php:78
+#: content.php:64
+msgid "Edit"
+msgstr "Muokkaa"
+
+#: content-aside.php:60 content.php:60
+msgid "% Comments"
+msgstr "% kommenttia"
+
+#: content-aside.php:60 content.php:60
+msgid "1 Comment"
+msgstr "1 kommentti"
+
+#: content-aside.php:60 content.php:60
+msgid "Leave a comment"
+msgstr "Kirjoita kommentti"
+
+#: content-aside.php:49 content.php:53
+msgid "Tagged %1$s"
+msgstr "Avainsanat %1$s"
+
+#: content-aside.php:39 content.php:43
+msgid "Posted in %1$s"
+msgstr "Kategoriassa %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: content-aside.php:35 content-aside.php:45
+msgid " "
+msgstr " "
+
+#: content-aside.php:23 content-single.php:36 content-page.php:18 image.php:60
+#: content.php:27
+msgid "Pages:"
+msgstr "Sivut:"
+
+#: content-aside.php:20 content.php:24
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Lue loppuun <span class=\"meta-nav\">&rarr;</span>"
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "Kommentointi on suljettu."
+
+#: comments.php:38 comments.php:58
+msgid "Newer Comments &rarr;"
+msgstr "Uudemmat kommentit &rarr;"
+
+#: comments.php:37 comments.php:57
+msgid "&larr; Older Comments"
+msgstr "&larr; Vanhemmat kommentit"
+
+#: comments.php:36 comments.php:56
+msgid "Comment navigation"
+msgstr "Kommenttien selaus"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Yksi kommentti artikkeliin &rdquo;%2$s&rdquo;"
+msgstr[1] "%1$s kommenttia artikkeliin &rdquo;%2$s&rdquo;"
+
+#: archive.php:63 footer-two.php:24 footer-two.php:38 footer-one.php:24
+#: footer-one.php:52 index.php:63 sidebar.php:17
+msgid "Archives"
+msgstr "Arkistot"
+
+#: archive.php:60 index.php:60
+msgid "Links"
+msgstr "Linkit"
+
+#: archive.php:57 index.php:57
+msgid "Quotes"
+msgstr "Lainaukset"
+
+#: archive.php:54 index.php:54
+msgid "Videos"
+msgstr "Videot"
+
+#: archive.php:51 index.php:51
+msgid "Images"
+msgstr "Kuvat"
+
+#: archive.php:48 index.php:48
+msgid "Asides"
+msgstr "Sivuhuomautukset"
+
+#: archive.php:45 index.php:45
+msgid "Year: %s"
+msgstr "Vuosi: %s"
+
+#: archive.php:42 index.php:42
+msgid "Month: %s"
+msgstr "Kuukausi: %s"
+
+#: archive.php:39 index.php:39
+msgid "Day: %s"
+msgstr "Päivä: %s"
+
+#: archive.php:31 index.php:31
+msgid "Author: %s"
+msgstr "Kirjoittajalta %s"
+
+#: inc/customizer.php:2053
+msgid "Standard Blog Settings"
+msgstr "Blogin perusasetukset"
+
+#: inc/customizer.php:457
+msgid "Header One Settings"
+msgstr "Otsake 1 asetukset"
+
+#: inc/customizer.php:199
+msgid "Social Settings"
+msgstr "Sosiaalisen median asetukset"
+
+#. translators: %1$s: smiley
+#: 404.php:44
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Kokeile jos löytäisit etsimäsi arkistosta. %1$s"
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr "Suosituimmat kategoriat"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Näyttää siltä, että mitään ei löytynyt tästä osoitteesta. Koita navigoida alla olevista linkeistä tai etsiä haluamaasi."
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Hups! Etsimääsi sivua ei löytynyt."
+
+#. Author URI of the theme
+msgid "http://www.themealley.com/"
+msgstr "http://www.themealley.com/"

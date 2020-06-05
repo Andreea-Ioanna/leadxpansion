@@ -1,0 +1,40 @@
+# Translation of Plugins - WP-ShowHide - Development (trunk) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - WP-ShowHide - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-11-16 20:07:35+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - WP-ShowHide - Development (trunk)\n"
+
+#. Author URI of the plugin/theme
+msgid "http://lesterchan.net"
+msgstr "http://lesterchan.net"
+
+#. Author of the plugin/theme
+msgid "Lester 'GaMerZ' Chan"
+msgstr "Lester 'GaMerZ' Chan"
+
+#. Description of the plugin/theme
+msgid "Allows you to embed content within your blog post via WordPress ShortCode API and toggling the visibility of the content via a link. By default the content is hidden and user will have to click on the \"Show Content\" link to toggle it. Similar to what Engadget is doing for their press releases. Example usage: <code>[showhide type=\"pressrelease\"]Press Release goes in here.[/showhide]</code>"
+msgstr "Te permite insertar contenido en una entrada mediante la API de shortcodes de WordPress y alternar la visibilidad del contenido a través de un enlace. Por defecto, el contenido está oculto y el usuario tendrá que hacer clic en el enlace \"Mostrar contenido\" para alternarlo. Similar a lo que Engadget hace en sus notas de prensa. Ejemplo de uso: <code>[showhide type=\"pressrelease\"]La nota de prensa está aquí.[/showhide]</code>"
+
+#. Plugin URI of the plugin/theme
+msgid "http://lesterchan.net/portfolio/programming/php/"
+msgstr "http://lesterchan.net/portfolio/programming/php/"
+
+#. Plugin Name of the plugin/theme
+msgid "WP-ShowHide"
+msgstr "WP-ShowHide"
+
+#: wp-showhide.php:54
+msgid "Hide Press Release (%s Less Words)"
+msgstr "Ocultar nota de prensa (%s palabras menos)"
+
+#: wp-showhide.php:53
+msgid "Show Press Release (%s More Words)"
+msgstr "Mostrar nota de prensa (%s palabras más)"
